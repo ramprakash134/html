@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student registraion</title>
+</head>
+<body>
+    <form >
+        
+    <table border="1" cellspacing="10" align="center">
+        
+        <tr>
+          <td colspan="2"><h3><center>Student Registration form</center></h3></td> 
+        </tr>
+        <tr><td><b><center>Name</center></b> </td>
+            <td>  <input type="text" placeholder="Enter your Name"></td>
+        </tr>
+        <tr><td><b><center><b>Password</b></center> </td>
+            <td>  <input type="password" placeholder="Enter password"></td>
+        </tr>
+        <tr><td><center><b>Gender</b></center> </td>
+            <td>  <input type="radio" name="Gender" value="Male">
+                <label for="male">Male</label>
+            <input type="radio" name="Gender" value="Female">
+        <label for="Female">female</label></td>
+        </tr>
+        <tr><td><center><b>Languages known</b></center> </td>
+            <td>  <input type="checkbox" name="Telugu" value="Telugu">
+                <label for="Telugu">Telugu</label>
+            <input type="checkbox" name="Hindi" value="Hindi">
+        <label for="Hindi">Hindi</label>
+        <input type="checkbox" name="English" value="English">
+        <label for="English">English</label></td>
+        </tr>
+        <tr>
+            <td><center><b>Choose your country</b></center></td>
+            <td><select >
+                <option >India</option>
+                <option> Australia</option>
+                <option> England</option>
+            </select></td>
+        </tr>
+
+        <tr>
+            <td><center><b>Enter your DOB</b></center> </td>
+            <td><input type="datetime-local" name="datetime" id=""></td>
+        </tr>
+        <tr>
+            <td><center><b>Choose your best color</b></center></td>
+            <td><input type="color" name="color" id="">
+            </td>
+        </tr>
+        <tr>
+            <td><center><b>choose your File</b></center></td>
+        
+        <td><input type="file" name="file" id=""></td>
+        </tr>
+        <tr><td></td>
+        <td><button type="submit">Submit</button><button type="reset">reset</button></td></tr>
+    </table>
+    </form>
+</body>
+</html>
