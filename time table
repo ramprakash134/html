@@ -1,0 +1,78 @@
+<html>
+<head>
+   <title>time table</title>
+</head>
+<body bgcolor="black">
+<H1><FONT COLOR="red"><CENTER>COLLEGE TIME TABLE</FONT></H1>
+<table border="3" cellspacing="3" align="center">
+<tr>
+ <td align="center"> <font color="white"><b>DAY / HOUR</b></font>
+ <td align="center"> <font color="white">8:15-9:10</font>
+ <td align="center"> <font color="white">9:10-10:05</font>
+ <td align="center"><font color="white">10:05-10:20</font>
+ <td align="center"><font color="white">10:20-11:15</font>
+ <td align="center"><font color="white">11:15-12:10</font>
+ <td align="center"><font color="white">12:10-1:05</font>
+ <td align="center"><font color="white">1:05-2:00</font>
+ <td align="center"><font color="white">2:00-2:55</font>
+<td align="center"> <font color="white">2:55-3:50</font>
+</tr>
+<tr>
+ <td align="center"> <font color="white"> MONDAY </font>
+ <td colspan="2" align="center"><font color="yellow">DE</font>
+<td rowspan="6" align="center"><font color="red">  <i> B <br> R <br> E <br> A <br> K </i>  </font></td>
+<td colspan="2" align="center"><font color="yellow">WT lab</font>
+ <td align="center"><font color="pink">int AI Disscussion<br>
+  <td rowspan="6"align="center"><font color="red"><i>L<br>U<br>N<br>C<br>H</i></font>
+    <td colspan="2" align="center"><font color="yellow">CD</font>
+
+</tr>
+<tr>
+    <td align="center"><font color="white">TUESDAY</font>
+        <td align="center"><font color="yellow">CD</font>
+            <td align="center"><font color="red">AI</font>
+       <td colspan="2" align="center"><font color="yellow">WT</font>
+        <td align="center"><font color="pink">CD Disscussion<br>
+
+           <td  align="center"><font color="orange">Counsellig</font>
+            <td  align="center"><font color="pink">MINOR/HONOUR</font>
+</tr>
+<tr>
+    <td align="center"><font color="white">WEDNESDAY</font>
+        <td colspan="2" align="center"><font color="red">SS lab</font>
+
+       <td colspan="2" align="center"><font color="yellow">DE</font>
+        <td align="center"><font color="pink">WT Disscussion<br>
+
+           <td colspan="2" align="center"><font color="yellow">OE</font>
+</tr>
+<tr>
+    <td align="center"><font color="white">THURSDAY</font>
+        <td colspan="2" align="center"><font color="yellow">DE</font>
+
+       <td colspan="2" align="center"><font color="yellow">introduction to AI</font>
+        <td  align="center"><font color="yellow"> </font>
+        <td align="center"><font color="yellow">CD<br>
+            <td align="center"><font color="pink">library<br>
+
+</tr>
+<tr>
+    <td align="center"><font color="white">FRIDAY</font>
+        <td  align="center"><font color="red">WT</font>
+
+       <td  align="center"><font color="yellow">CD</font>
+        <td colspan="2" align="center"><font color="pink">IDP<br>
+<td  align="center"><font color="yellow"> </font>
+           <td colspan="2" align="center"><font color="pink">MINOR/HONOUR</font>
+</tr>
+<tr>
+    <td align="center"><font color="white">SATURDAY</font>
+        <td  align="center"><font color="yellow">AI</font>
+
+       <td  align="center"><font color="red">WT </font>
+        <td align="center" colspan="2"><font color="pink">MINOR/HONOUR<br>
+       <td  align="center"><font color="yellow"> </font>
+           <td colspan="2" align="center"><font color="pink">OE</font>
+</tr>
+</body>
+</html>
